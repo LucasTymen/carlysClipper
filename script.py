@@ -12,3 +12,5 @@ for price in prices :
 average_price = total_price / len(prices)
 
 print("average_price : ${0} ".format(average_price))
+
+new_prices = [price - 5 for prices]
