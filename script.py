@@ -34,5 +34,8 @@ for i in range(len(hairstyles)):
 print("Total Revenue : ${} ".format(total_revenue))
 
 # step 11
+average_daily_revenue  = total_revenue / 7
+print("average Daily revenue : ${} ".format (average_daily_revenue))
+
 # step 12
 # step 13
